@@ -6,7 +6,7 @@ Green, Free Template HTML/CSS/JS with [MaterializeCSS](http://next.materializecs
 
 ### Version history
 
-#### v1.0 - [Download](https://github.com/thomasbnt/green/releases/tag/v1.0) - [Demo](https://thomasbnt.fr/themes/green)
+#### v1.0 - [Download](https://github.com/thomasbnt/green/releases/tag/v1.0) - [Demo](https://refined-github-html-preview.kidonng.workers.dev/thomasbnt/Green/raw/master/index.html)
 - SEO Optimized
 - Green color
 - Responsive
